@@ -4,7 +4,7 @@
 // Importing generic libraries
 import java.util.*;
 
-class GFG7 {
+class GFG7{
 
     // Function to swap two numbers
     // Using temporary variable
